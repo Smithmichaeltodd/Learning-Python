@@ -1,5 +1,5 @@
 #Whats The Temperature.py
-#A Fahrenheit to Celsius Conveter
+#A Fahrenheit to Celsius Converter
 #By Michael Smith
 
 def temperature():
